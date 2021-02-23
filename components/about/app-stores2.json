@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_about_app_stores2s",
+  "info": {
+    "name": "appStores",
+    "icon": "atlas",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "text"
+    }
+  }
+}

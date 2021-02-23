@@ -1,0 +1,41 @@
+{
+  "collectionName": "components_home_functions",
+  "info": {
+    "name": "functions",
+    "icon": "apple-alt",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "function1": {
+      "type": "text"
+    },
+    "function2": {
+      "type": "text"
+    },
+    "function3": {
+      "type": "text"
+    },
+    "function4": {
+      "type": "text"
+    },
+    "function5": {
+      "type": "text"
+    },
+    "function6": {
+      "type": "text"
+    },
+    "function7": {
+      "type": "text"
+    },
+    "note1": {
+      "type": "string"
+    },
+    "note2": {
+      "type": "string"
+    }
+  }
+}

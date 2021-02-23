@@ -1,0 +1,32 @@
+{
+  "collectionName": "components_home_values",
+  "info": {
+    "name": "values",
+    "icon": "clipboard-check",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "text"
+    },
+    "val1": {
+      "type": "text"
+    },
+    "valDescription1": {
+      "type": "richtext"
+    },
+    "val2": {
+      "type": "text"
+    },
+    "valDescription2": {
+      "type": "richtext"
+    },
+    "val3": {
+      "type": "text"
+    },
+    "valDescription3": {
+      "type": "richtext"
+    }
+  }
+}

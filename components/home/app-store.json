@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_home_app_stores",
+  "info": {
+    "name": "appStore",
+    "icon": "at"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string"
+    },
+    "pinkText": {
+      "type": "string"
+    }
+  }
+}

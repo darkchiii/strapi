@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_home_knowledge_bases",
+  "info": {
+    "name": "knowledgeBase",
+    "icon": "book"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "button1": {
+      "type": "string"
+    },
+    "button2": {
+      "type": "string"
+    },
+    "button3": {
+      "type": "string"
+    }
+  }
+}

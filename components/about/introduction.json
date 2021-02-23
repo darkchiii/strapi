@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_about_introductions",
+  "info": {
+    "name": "introduction",
+    "icon": "book-open"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "richtext"
+    },
+    "description": {
+      "type": "richtext"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "collectionName": "components_home_benefits",
+  "info": {
+    "name": "benefits",
+    "icon": "angle-right"
+  },
+  "options": {},
+  "attributes": {
+    "benefitTitle1": {
+      "type": "text"
+    },
+    "benefitDescription1": {
+      "type": "text"
+    },
+    "benefitTitle2": {
+      "type": "text"
+    },
+    "benefitDescription2": {
+      "type": "text"
+    },
+    "benefitTitle3": {
+      "type": "text"
+    },
+    "benefitDescription3": {
+      "type": "text"
+    },
+    "benefitTitle4": {
+      "type": "text"
+    },
+    "benefitDescription4": {
+      "type": "text"
+    },
+    "benefitTitle5": {
+      "type": "text"
+    },
+    "benefitDescription5": {
+      "type": "text"
+    }
+  }
+}

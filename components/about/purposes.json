@@ -1,0 +1,37 @@
+{
+  "collectionName": "components_about_purposes",
+  "info": {
+    "name": "purposes",
+    "icon": "graduation-cap"
+  },
+  "options": {},
+  "attributes": {
+    "title1": {
+      "type": "text"
+    },
+    "titlePink1": {
+      "type": "text"
+    },
+    "description1": {
+      "type": "richtext"
+    },
+    "titlePink2": {
+      "type": "text"
+    },
+    "title2": {
+      "type": "text"
+    },
+    "description2": {
+      "type": "richtext"
+    },
+    "titlePink3": {
+      "type": "text"
+    },
+    "title3": {
+      "type": "text"
+    },
+    "description3": {
+      "type": "richtext"
+    }
+  }
+}

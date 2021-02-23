@@ -1,0 +1,34 @@
+{
+  "kind": "collectionType",
+  "collectionName": "pages",
+  "info": {
+    "name": "page",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "content": {
+      "type": "dynamiczone",
+      "components": [
+        "home.app-store",
+        "home.hero",
+        "home.benefits",
+        "home.functions",
+        "home.knowledge-base",
+        "home.values",
+        "home.experts",
+        "home.basia",
+        "about.app-stores2",
+        "about.purposes",
+        "about.introduction"
+      ]
+    }
+  }
+}

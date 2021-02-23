@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_home_basias",
+  "info": {
+    "name": "Basia",
+    "icon": "quote-left"
+  },
+  "options": {},
+  "attributes": {
+    "quote": {
+      "type": "text"
+    },
+    "signature": {
+      "type": "string"
+    },
+    "button": {
+      "type": "string"
+    },
+    "title": {
+      "type": "text"
+    },
+    "subtitle": {
+      "type": "richtext"
+    },
+    "button2": {
+      "type": "string"
+    }
+  }
+}
